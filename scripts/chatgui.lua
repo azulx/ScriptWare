@@ -1,4 +1,3 @@
---hello moron this was not made by me so fuck off
 if game.Workspace:FindFirstChild("ExploitChat") == nil then
 	local flder = Instance.new('Folder',game.Workspace)
 	flder.Name = "ExploitChat"
@@ -129,4 +128,4 @@ end
 end
 
 flderChat.ChatInput.Changed:connect(change)
-flderChat.ChatInput.Value = (game.Players.LocalPlayer.Name .. " has just joined the Script-Ware chat! / Credits go to the respective owners, thanks to S_ntinel")
+flderChat.ChatInput.Value = (game.Players.LocalPlayer.Name .. " has just joined the Script-Ware chat! / Credits go to the respective owners & S_ntinel")
